@@ -4,9 +4,9 @@ ROADMAP FOR CLOUD ENGINEER
 
 Steps:
 
-Get the fundamentals
-Why cloud exists
-Business Benefits
+   -  Get the fundamentals
+   -  Why cloud exists
+   -  Business Benefits
 
 Networking
 Operating System
@@ -75,25 +75,30 @@ Identity & Access Management
 Which is basically used for accesses and 
 
 Day - 1
-Introduction to AWS
-What is Cloud?
-Public Vs Private Cloud
-Why is public cloud so popular?
-Why AWS?
-Trends of people moving back to Private cloud?
-Create an AWS account and get started
+  
+  * Introduction to AWS
+  * What is Cloud?
+  * Public Vs Private Cloud
+  * Why is public cloud so popular?
+  * Why AWS?
+
+    
+- Trends of people moving back to Private cloud?
+     Create an AWS account and get started
 
 
-What is Cloud?
- What is the cloud?
+^ What is Cloud?
+ 
 The cloud means storing and accessing data, apps, and services over the internet instead of your own computer.
 
 🔹 Example:
 When you save a photo in Google Drive – it’s saved in the cloud.
 When you watch a movie on Netflix – it’s streamed from the cloud.
+
 🔹 Real meaning:
 The cloud is just powerful computers (called servers) in big data centers around the world.
 You connect to them using the internet.
+
 🔹 What can the cloud do?
 Store files
 Run apps (like Gmail, Zoom)
@@ -101,6 +106,7 @@ Host websites
 Backup data
 Analyze big data
 Provide virtual machines (servers)
+
 🔹 Simple comparison:
 Your Computer
 The Cloud
@@ -112,7 +118,7 @@ Data stored locally
 Data stored on internet servers
 
 
-Before the past 20 years, there were no cloud platforms, so whenever we needed to deploy the application, we had to buy the servers physically from different regions of the world and had to configure their network and deploy the application into those servers. After deploying, suppose we require only 1 GB of RAM for maintaining, we don't have an option to buy only 1 GB RAM servers. We have to buy 100 GB of RAM for the servers. From this the major drawback is that there is a lot of waste of RAM usage, and more cost to maintain servers physically, and it is difficult overall to maintain physical servers. So, to encounter this problem, AWS came forward and introduced its cloud services by giving only the required number of servers to the users and paying only for what they have used.
+* Before the past 20 years, there were no cloud platforms, so whenever we needed to deploy the application, we had to buy the servers physically from different regions of the world and had to configure their network and deploy the application into those servers. After deploying, suppose we require only 1 GB of RAM for maintaining, we don't have an option to buy only 1 GB RAM servers. We have to buy 100 GB of RAM for the servers. From this the major drawback is that there is a lot of waste of RAM usage, and more cost to maintain servers physically, and it is difficult overall to maintain physical servers. So, to encounter this problem, AWS came forward and introduced its cloud services by giving only the required number of servers to the users and paying only for what they have used.
 
 Old-time companies buy servers and deploy applications
 Data center → a place where all the servers are stored and all the configurations are done for the servers
