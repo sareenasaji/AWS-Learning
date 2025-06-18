@@ -36,3 +36,10 @@ Obtain foundation level certification
 
 # Projects
 
+First project → Setup a virtual machine
+Second project → Cloud Storage Solution
+Third → Deploy a webapp – use HTML or React or using Cloud services
+
+You need to firstly build it using the console and then rebuild infrastructures code such as Terraform - widely  using in the cloud industry, 
+
+Make a resume using cloud - using number of different services along with cicd and cloud
