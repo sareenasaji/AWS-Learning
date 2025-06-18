@@ -1,0 +1,18 @@
+Day 2 -17/06/2025
+   AWS IAM
+What, Why
+Users
+Groups
+Policies
+Roles
+IAM is an AWS service is solves the problem of authentication and authorisation
+If there is an AWS account —AWS admin or a user creates an account in AWS, the user has root access to that account. 
+     18/06/2025
+To the AWS the user has different access, but one thing delete from the AWS knowingly/unknowingly to the user — it is a primary false alarm —its permanently deleted from the AWS to solve this introduced—--IAM
+IAM → Is an AWS service doing authorisation and authentication
+IAM solving the problem of authorisation and a
+E.g.: an employee 501 goes to AWS, then AWS gives him a user ID and password,, ie policies 
+You need to enter a user into AWS, you need to attach some policies → which means some authentication.
+Whenever you create a user you attach some policies to that user.
+When you are not attaching any policies to that user the user just enters the AWS, user cant do nothing.
+
