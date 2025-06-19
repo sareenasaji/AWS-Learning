@@ -13,4 +13,5 @@ to add a new user into AWS that means creating an **Authentication**  --- you ad
   - is related to user
   - creating a DB services in AWS , developer has a private cloudd in aws,, a customer try to access the private cloud
       application is not a role , application accesing something from the AWS
-   to create arole when you access the AWS application , just use the role 
+   to create arole when you access the AWS application , just use the role
+  - Roles are totally created for temporary purpose, not completely user
