@@ -35,5 +35,23 @@ click --> **Next**  button
 
     **step 4 -- Retrieve Password**
    you can download --_Download .csv file _
+
+  then you can signout from the account then again sign in with IAM user and password you created.
+   again login --- then **search S3**
+   then **click --> Create Bucket**
+
+  then goto **Buckets**
+   then search **EC2**
+     EC2 --> Dashboard --> you can see you have not access to any of services,
+    click Launch Instance for 
   
-  
+here it showing for you have no access to any service, 
+    - here click **(instance running) under Resources,   then click Launch Instances**
+
+    here you have authentication to AWS but you dont have to creating users because you have not permissions access in AWS.
+  then **signout**
+
+  **Sign In As Root User**
+   then search IAM 
+
+   then select **users** --> **test-user-501** 
