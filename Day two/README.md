@@ -85,3 +85,14 @@ here user can view the list of default AWS policies,
 --> S3* means you will get everything related to S3
 
 after that click on ---> _**Next**_ button
+click on   _**Add Permissions**_
+ here user can view--test-user-501 --> access that are , s3 full access, for check it login as -- test-user-501
+
+ after sign in click aws icon in the left top corner
+
+ here user can view the list of Recently Visited
+
+ here select --> S3
+
+ new video 22:33--seconds he deleting the policy coross check with abhishek video
+
