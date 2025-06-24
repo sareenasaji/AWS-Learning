@@ -51,7 +51,14 @@ here it showing for you have no access to any service,
     here you have authentication to AWS but you dont have to creating users because you have not permissions access in AWS.
   then **signout**
 
-  **Sign In As Root User**
+  **Sign In As Root User** [Root user name --- email, password -- email password ]
    then search IAM 
 
    then select **users** --> **test-user-501** 
+
+   here sign in for attachning permissions  --> here only attached change password policy.
+
+   --> select **Add Permissions**
+      --> Select **Attach policies directly**
+here user can view the list of default AWS policies, 
+   --> then search **S3**
