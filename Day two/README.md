@@ -83,3 +83,5 @@ here user can view the list of default AWS policies,
 }
 
 --> S3* means you will get everything related to S3
+
+after that click on ---> _**Next**_ button
