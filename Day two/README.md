@@ -64,7 +64,11 @@ here user can view the list of default AWS policies,
    --> then search **S3**
    --> select....**AmazonS3FullAccess**---> the use of it access of everything read ,write etc.by selcting use the  
    **checkbox**  click the + icon adjust to **AmazonS3FullAccess** for view the code
-   {
+   - JSON Code
+     
+  -
+      - JSON code
+      {
     "Version": "2012-10-17",
     "Statement": [
         {
